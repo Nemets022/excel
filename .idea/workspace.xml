@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f82fa133-26c5-40b2-bf1e-06eda0d99318" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +22,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="wsl://UBUNTU1804@/home/nemets/.nvm/versions/node/v12.16.3/bin/node" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,11 +40,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590083901573</updated>
-      <workItem from="1590083904572" duration="136000" />
+      <workItem from="1590083904572" duration="382000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="374" width="879" height="520" key="#ESLint" timestamp="1590084269913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="330" y="374" width="879" height="520" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1590084269913" />
   </component>
 </project>
