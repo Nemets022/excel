@@ -12,7 +12,9 @@
 		"comma-dangle":"off",
 		"indent":"off",
 		"no-tabs":"off",
-		"eol-last":"off"
+		"eol-last":"off",
+		"require-jsdoc":"off",
+		"object-curly-spacing":"off"
 	},
 	"extends": ["eslint:recommended", "google"]
 }
